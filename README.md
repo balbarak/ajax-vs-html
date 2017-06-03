@@ -1,7 +1,7 @@
 # ajax-vs-html
 This project demonstrate the different between ajax form and html form
 
- <form method="GET" action="/Send">
+                      <form method="GET" action="/Send">
                             <div class="form-group">
                                 <div class="label-form">
                                     First Name
